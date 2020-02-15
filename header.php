@@ -1,10 +1,3 @@
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({
-          google_ad_client: "ca-pub-4305348743992957",
-          enable_page_level_ads: true
-     });
-</script>
 <header class="main-header">
         
     
@@ -48,15 +41,7 @@
                 <div id="navbar1" class="navbar-collapse pull-right">
 
                   <ul class="nav navbar-nav">
-<li><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- achhey -->
-<ins class="adsbygoogle"
-     style="display:inline-block;width:320px;height:100px"
-     data-ad-client="ca-pub-4305348743992957"
-     data-ad-slot="3135886125"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script></li>
+<li>banner ads</li>
 
                   </ul>
 
@@ -103,6 +88,8 @@
                           <li><a href="askonequestionfree.php">ASK ONE QUESTION FREE </a></li>
                           <li><a href="dailyhoroscope.php">FREE DAILY HOROSCOPE</a></li>
                           <li><a href="free-tarot-card-reading.php">फ्री टैरो कार्ड रीडिंग</a></li>
+                          <li><a href="ram-shakala.php">श्री राम शलाका प्रश्नावली
+</a></li>
                    </li></ul></li>
                    
                    <li class="has-child"><a href="#">SERVICES</a>
