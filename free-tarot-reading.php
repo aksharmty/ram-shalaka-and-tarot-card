@@ -44,21 +44,10 @@ include("connect.php");
 	<div class="row ">
         <div class="col-md-8">
 <?php
-$servername = "fdb12.runhosting.com";
-$username = "1716009_123";
-$password = "hgRTR#@9213816442";
-$dbname = "1716009_123";
 
-// Create connection
-$conn = new mysqli($servername, $username, $password, $dbname);
-// Check connection
-if ($conn->connect_error) {
-    die("Connection failed: " . $conn->connect_error);
-    
-}
 $sql = "SELECT id, card,img, des FROM tarot order by RAND() limit 3";
-mysqli_set_charset( $conn, 'utf8');
-$result = $conn->query($sql);
+mysqli_set_charset( $connection, 'utf8');
+$result = $connection->query($sql);
 
 
 ?>
