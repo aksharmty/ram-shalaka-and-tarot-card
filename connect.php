@@ -1,9 +1,9 @@
 <?php
-$connection = mysqli_connect('fdb12.runhosting.com', '1716009_123', 'hgRTR#@9213816442');
+$connection = mysqli_connect('localhost', 'database_user_name', 'database_password');
 if (!$connection){
     die("Database Connection Failed" . mysqli_error($connection));
 }
-$select_db = mysqli_select_db($connection, '1716009_123');
+$select_db = mysqli_select_db($connection, 'database_name');
 if (!$select_db){
     die("Database Selection Failed" . mysqli_error($connection));
 }
